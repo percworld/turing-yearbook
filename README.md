@@ -19,8 +19,7 @@ Build a React App that displays Turing front-end staff!
 
 ![turing yearbook screenshot](https://raw.githubusercontent.com/turingschool-examples/yearbook/main/screenshot.png)
 
-We want to see good commit habits - atomic commits that log small, focused changesets.
-
+We want to see good commit habits - atomic commits that log small, focused change sets.
 
 ### Iteration 0
 
@@ -46,6 +45,6 @@ Then create a controlled component that allows a user to add a new student.
 
 ### Iteration 3 (optional extension - do not attempt until iterations 0 - 2 are completed)
 
-Add in the functionality so that a user can click and edit a student's information.  A user should be able to update the name, quote, and superlative.  
+Add in the functionality so that a user can click and edit a student's information. A user should be able to update the name, quote, and superlative.
 
-Lastly, add a delete button on each card that allowers a user to remove students that are no longer attending.
+Lastly, add a delete button on each card that allows a user to remove students that are no longer attending.
